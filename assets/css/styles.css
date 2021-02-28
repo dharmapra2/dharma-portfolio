@@ -226,7 +226,7 @@ img{
 .about__img{
     display: flex;
     justify-content: center;
-    padding-top: 1rem;
+    /* padding-top: 1rem; */
     width: 110px;
     height: 110px;
     background-color: var(--first-color);
